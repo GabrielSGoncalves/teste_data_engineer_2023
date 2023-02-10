@@ -2,10 +2,14 @@
 
 #### Período de execução do teste
 2023-02-06T21:20:00 -> 2023-02-06T23:12:00 (1:52hr)
+
 2023-02-07T22:32:00 -> 2023-02-07T23:38:00 (1:16hr)
+
 2023-02-08T22:22:00 -> 2023-02-09T00:28:00 (2:06hr)
+
 2023-02-09T21:16:00 -> 2023-02-08T21:52:00 (0:26hr)
-Período total de execução do teste -> 5:30hr
+
+**Período total de execução do teste -> 5:30hr**
 
 ## Objetivo
 Este documento tem como principal objetivo desenvolver a implementação solicitada para a vaga de Engenheiro de Dados da Lambda. As etapas abaixo descritas foram desenvolvidas seguindo as instruções do [repositório original publicado no GitHub](https://github.com/AhirtonLopes/teste_eng_dados).
