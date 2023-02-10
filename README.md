@@ -1,4 +1,4 @@
-# Teste técnico para vaga de Engenharia de Dados Lambda 3
+# Teste técnico para vaga de Engenharia de Dados
 
 #### Período de execução do teste
 2023-02-06T21:20:00 -> 2023-02-06T23:12:00 (1:52hr)
@@ -12,7 +12,7 @@
 **Período total de execução do teste -> 5:30hr**
 
 ## Objetivo
-Este documento tem como principal objetivo desenvolver a implementação solicitada para a vaga de Engenheiro de Dados da Lambda. As etapas abaixo descritas foram desenvolvidas seguindo as instruções do [repositório original publicado no GitHub](https://github.com/AhirtonLopes/teste_eng_dados).
+Este documento tem como principal objetivo desenvolver a implementação solicitada para a vaga de Engenheiro de Dados. As etapas abaixo descritas foram desenvolvidas seguindo as instruções do [repositório original publicado no GitHub](https://github.com/AhirtonLopes/teste_eng_dados).
 
 ## Cenário do teste
 O texto abaixo é a descrição original do cenário do teste:
@@ -163,10 +163,10 @@ Para mais informações sobre como configurar o seu ambiente de desenvolvimento 
 Com o Miniconda instalado, iremos criar um ambiente Python isolado para o desenvolvimento das tarefas.
 
 ```
-conda create -n lambda3_de_test python=3.8
-conda activate lambda3_de_test
+conda create -n de_test python=3.8
+conda activate de_test
 pip install ipykernel
-ipython kernel install --user --name=lambda3_de_test
+ipython kernel install --user --name=de_test
 ```
 
 #### Instalação do Spark
